@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there, My name is Nanda Pramudia Santosa 👋
+
+
+
+<p align="center">You can call me Nanda. I'm a mathematics student from Bandung Institute of Technology (ITB), a Data Scientist, and Data Analyst.My current interest are data science and analytics field. I learn data science and analytics from various source such as online courses and lectures. With my background in mathematics I hold a strong foundation in statistics, calculus, linear algebra which help me to utilize machine learning better in various case. I would be happy to receive any offer of colaboration or internships to further hone my skills in this area. </p>
+
+<hr>
+
+<br/>
 
 <!--
 **nanda-672/nanda-672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
